@@ -1,3 +1,4 @@
+// y = 10.Sin(x) graph
 
 package SinusGraphic;
 
