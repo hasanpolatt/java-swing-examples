@@ -1,3 +1,4 @@
+//A small form where you can enter your information
 
 package Example;
 import javax.swing.*;
